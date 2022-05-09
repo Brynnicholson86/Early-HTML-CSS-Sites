@@ -1,3 +1,4 @@
+<a href="WTC-animation-Logo.html">TEST LINK</a>
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Brynnicholson86/Early-HTML-CSS-Sites/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
